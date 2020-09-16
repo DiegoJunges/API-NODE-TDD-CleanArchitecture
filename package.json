@@ -1,0 +1,19 @@
+{
+  "name": "api-node-tdd-cleanarchitecture",
+  "version": "1.0.0",
+  "description": "API Node built with Clear Architecture and TDD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoJunges/API-NODE-TDD-CleanArchitecture.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoJunges/API-NODE-TDD-CleanArchitecture/issues"
+  },
+  "homepage": "https://github.com/DiegoJunges/API-NODE-TDD-CleanArchitecture#readme"
+}
