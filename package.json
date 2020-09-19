@@ -4,7 +4,9 @@
   "description": "API Node built with Clear Architecture and TDD.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:unit": "npm test -- -c jest-unit-config.js",
+    "test:integration": "npm test -- -c jest-integration-config.js"
   },
   "repository": {
     "type": "git",
