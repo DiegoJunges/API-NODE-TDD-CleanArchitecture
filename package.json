@@ -20,5 +20,8 @@
   "homepage": "https://github.com/DiegoJunges/API-NODE-TDD-CleanArchitecture#readme",
   "devDependencies": {
     "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "validator": "^13.1.17"
   }
 }
