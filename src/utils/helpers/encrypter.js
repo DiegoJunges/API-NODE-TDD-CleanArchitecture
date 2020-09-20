@@ -7,7 +7,7 @@ module.exports = class Encrypter {
       throw new MissingParamError('value')
     }
     if (!hash) {
-      throw new MissingParamError('value')
+      throw new MissingParamError('hash')
     }
     const isValid = bcrypt.compare(value, hash)
     return isValid
