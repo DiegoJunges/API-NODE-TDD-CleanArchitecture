@@ -167,7 +167,6 @@ describe('Login Router', () => {
   })
 
   it('Shoud return 500 if no AuthUseCase throws', async () => {
-
     const authUseCaseSpy = makeAuthUseCaseWithError()
     const sut = new LoginRouter(authUseCaseSpy)
     const httpRequest = {
