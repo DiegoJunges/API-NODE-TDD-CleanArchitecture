@@ -19,11 +19,13 @@
   },
   "homepage": "https://github.com/DiegoJunges/API-NODE-TDD-CleanArchitecture#readme",
   "devDependencies": {
+    "@shelf/jest-mongodb": "^1.2.3",
     "jest": "^26.4.2"
   },
   "dependencies": {
     "bcrypt": "^5.0.0",
     "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.6.2",
     "validator": "^13.1.17"
   }
 }
