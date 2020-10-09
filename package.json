@@ -4,6 +4,7 @@
   "description": "API Node built with Clear Architecture and TDD.",
   "main": "src/main/index.js",
   "scripts": {
+    "coverage": "npm run test --coverage && cat ./coverage/lcov.info | coveralls",
     "start": "node src/main/index.js",
     "test": "jest --runInBand",
     "test:unit": "npm test -- -c jest-unit-config.js",
@@ -21,6 +22,7 @@
   "homepage": "https://github.com/DiegoJunges/API-NODE-TDD-CleanArchitecture#readme",
   "devDependencies": {
     "@shelf/jest-mongodb": "^1.2.3",
+    "coveralls": "^3.1.0",
     "jest": "^26.4.2",
     "supertest": "^5.0.0"
   },
