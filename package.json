@@ -6,9 +6,7 @@
   "scripts": {
     "coverage": "npm run test --coverage && cat ./coverage/lcov.info | coveralls",
     "start": "node src/main/index.js",
-    "test": "jest --runInBand",
-    "test:unit": "npm test -- -c jest-unit-config.js",
-    "test:integration": "npm test -- -c jest-integration-config.js"
+    "test": "jest --runInBand"
   },
   "repository": {
     "type": "git",
