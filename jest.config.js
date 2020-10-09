@@ -4,7 +4,7 @@ module.exports = {
   collectCoverage: true,
   preset: '@shelf/jest-mongodb',
   collectCoverageFrom: [
-    '<rootDir>/src/**/*.js'
+    '**/src/**/*.js', '!**/src/main/**.js'
   ],
   coverageReporters: [
     "text-summary",

@@ -2,9 +2,10 @@
   "name": "api-node-tdd-cleanarchitecture",
   "version": "1.0.0",
   "description": "API Node built with Clear Architecture and TDD.",
-  "main": "index.js",
+  "main": "src/main/index.js",
   "scripts": {
-    "test": "jest",
+    "start": "node src/main/index.js",
+    "test": "jest --runInBand",
     "test:unit": "npm test -- -c jest-unit-config.js",
     "test:integration": "npm test -- -c jest-integration-config.js"
   },
@@ -20,10 +21,13 @@
   "homepage": "https://github.com/DiegoJunges/API-NODE-TDD-CleanArchitecture#readme",
   "devDependencies": {
     "@shelf/jest-mongodb": "^1.2.3",
-    "jest": "^26.4.2"
+    "jest": "^26.4.2",
+    "supertest": "^5.0.0"
   },
   "dependencies": {
     "bcrypt": "^5.0.0",
+    "express": "^4.17.1",
+    "fast-glob": "^3.2.4",
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.6.2",
     "validator": "^13.1.17"
