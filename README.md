@@ -4,4 +4,4 @@
 # API-NODE-TDD-CleanArchitecture
 API Node built with Clear Architecture and TDD.
 
-A login, UseAuth usecase fully covered by tests.
+A login with Authentication usecase fully covered by tests.
