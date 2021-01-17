@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  NestJS Application API to manage tasks.
+  NodeJS Application API to login users and persist data to MongoDB.
 </h3>
 
 <div align="center">
