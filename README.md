@@ -33,7 +33,7 @@
 
 ## Description
 
-## 📑✅ About the project
+## 🏗️ About the project
 
 A api with login feature and MongoDB to persist data, to mock the MongoDB i used MongoDB memory Server it's built with some design patterns and tdd, 100% test coverage. 
 
