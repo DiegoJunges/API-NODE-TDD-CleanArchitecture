@@ -35,7 +35,7 @@
 
 ## 🏗️ About the project
 
-A api with login feature and MongoDB to persist data, to mock the MongoDB i used MongoDB memory Server it's built with some design patterns and tdd, 100% test coverage. 
+A api with login feature and MongoDB to persist data, to mock the MongoDB i used MongoDB memory Server it's built with some design patterns and tdd, 100% test coverage. For CI/CD Travis-CI has been used.
 
 ## 🚀 Technologies
 
@@ -49,6 +49,7 @@ Technologies that I used to develop this api
 - [Jest](https://jestjs.io/)
 - [SuperTest](https://github.com/visionmedia/supertest)
 - [Bcrypt.js](https://github.com/dcodeIO/bcrypt.js/)
+- [Travis-ci](https://travis-ci.org/)
 - [Coveralls](https://coveralls.io/)
 - [Prettier](https://prettier.io/)
 
