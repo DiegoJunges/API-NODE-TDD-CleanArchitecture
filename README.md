@@ -6,9 +6,7 @@
   NestJS Application API to manage tasks.
 </h3>
 
-<p align="center">The best way to manage tasks!</p>
-
-<p align="center">
+<div align="center">
 
 [![Coverage Status](https://coveralls.io/repos/github/DiegoJunges/API-NODE-TDD-CleanArchitecture/badge.svg?branch=master)](https://coveralls.io/github/DiegoJunges/API-NODE-TDD-CleanArchitecture?branch=master)
 [![Build Status](https://travis-ci.org/DiegoJunges/API-NODE-TDD-CleanArchitecture.svg?branch=master)](https://travis-ci.org/DiegoJunges/API-NODE-TDD-CleanArchitecture)
@@ -31,7 +29,7 @@
 
   <img alt="GitHub" src="https://img.shields.io/github/license/DiegoJunges/gobarber-api?color=%23FF9000">
   
-</p>
+</div>
 
 ## Description
 
