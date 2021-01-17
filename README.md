@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="CleanArchiteture.jpg" width="320" alt="cleanArchiteture" /></a>
+  <img src="CleanArchitecture.jpg" width="320" alt="cleanArchiteture" /></a>
 </p>
 
 <h3 align="center">
