@@ -11,23 +11,23 @@
 [![Coverage Status](https://coveralls.io/repos/github/DiegoJunges/API-NODE-TDD-CleanArchitecture/badge.svg?branch=master)](https://coveralls.io/github/DiegoJunges/API-NODE-TDD-CleanArchitecture?branch=master)
 [![Build Status](https://travis-ci.org/DiegoJunges/API-NODE-TDD-CleanArchitecture.svg?branch=master)](https://travis-ci.org/DiegoJunges/API-NODE-TDD-CleanArchitecture)
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/DiegoJunges/gobarber-api?color=%23FF9000">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/DiegoJunges/API-NODE-TDD-CleanArchitecture?color=%23FF9000">
 
   <a href="https://www.linkedin.com/in/diego-junges/" target="_blank" rel="noopener noreferrer">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Diego%20Junges-%23FF9000">
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/DiegoJunges/gobarber-api?color=%23FF9000">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/DiegoJunges/API-NODE-TDD-CleanArchitecture?color=%23FF9000">
 
   <a href="https://github.com/DiegoJunges/gobarber-api/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DiegoJunges/gobarber-api?color=%23FF9000">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DiegoJunges/API-NODE-TDD-CleanArchitecture?color=%23FF9000">
   </a>
 
-  <a href="https://github.com/DiegoJunges/gobarber-api/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/DiegoJunges/gobarber-api?color=%23FF9000">
+  <a href="https://github.com/DiegoJunges/API-NODE-TDD-CleanArchitecture/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/DiegoJunges/API-NODE-TDD-CleanArchitecture?color=%23FF9000">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/DiegoJunges/gobarber-api?color=%23FF9000">
+  <img alt="GitHub" src="https://img.shields.io/github/license/DiegoJunges/API-NODE-TDD-CleanArchitecture?color=%23FF9000">
   
 </div>
 
